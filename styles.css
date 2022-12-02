@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #C3F8FF;
+}
+h1 {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.postcode {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.toilet {
+    margin: 10px;
+}
+
+.address {
+    margin-left: 10px;
+}
