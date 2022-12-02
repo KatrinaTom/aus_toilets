@@ -24,6 +24,15 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 
+button {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+div {
+    border:1px solid black;
+}
+
 .postcode {
     margin-left: 20px;
     margin-bottom: 10px;
@@ -35,4 +44,11 @@ p {
 
 .address {
     margin-left: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-family: 'Open Sans', sans-serif;
 }
