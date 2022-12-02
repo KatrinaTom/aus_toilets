@@ -60,10 +60,10 @@ Papa.parse("https://data.gov.au/data/dataset/553b3049-2b8b-46a2-95e6-640d7986a8c
         // To see the data that a public toilet has in this API, 
         // check the browser console!
         console.log(results.data[1]);
-        displayData(results.data);  
+        // displayData(results.data);  
         // To see implemented with the bonus, 
         // comment out the line above and uncomment the line below.
-        //displayDataByPostcode(results.data);              
+        displayDataByPostcode(results.data);              
     }
 });
 
